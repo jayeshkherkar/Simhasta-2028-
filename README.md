@@ -24,5 +24,5 @@ The following features this application are:
          Here in this repository all libraries are mentioned in requirements.txt file.
       4) Run the flask application:
          Run this command in vs code powershell terminal: python app.py
-
+# Important instruction is that please ensure that all the libraries mentioned in the "requirements.txt" should be installed efficiently in virtual environment.
   
