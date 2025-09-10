@@ -25,4 +25,5 @@ The following features this application are:
       4) Run the flask application:
          Run this command in vs code powershell terminal: python app.py
 # Important instruction is that please ensure that all the libraries mentioned in the "requirements.txt" should be installed efficiently in virtual environment.
-# I have mentioned the google drive link of 10 video footages in requirements.txt file first download them into the folder and then after that run the application.
+# I have mentioned the google drive link of 10 video footages below, first download them into the folder and then after that run the application.
+# Video link: - https://drive.google.com/drive/folders/1VNRogbnX185yEwewSlbOrjkMB0TqnBzx?usp=sharing 
