@@ -24,6 +24,6 @@ The following features this application are:
          Here in this repository all libraries are mentioned in requirements.txt file.
       4) Run the flask application:
          Run this command in vs code powershell terminal: python app.py
-# Important instruction is that please ensure that all the libraries mentioned in the "requirements.txt" should be installed efficiently in virtual environment.
-# I have mentioned the two google drive links one is of 10 video footages and another one is a folder which contains two ML model one is joblib and second is yolo model please first download all things from this link and then run app.py
-# Video link, ML models: - https://drive.google.com/drive/folders/1HexlVxr469xTbZbSHOHnqUzpa4iIzuI7?usp=sharing 
+# Important instruction is that please ensure that all the libraries mentioned in the "requirements.txt" should be installed efficiently in virtual environment and create the virtual environment folder inside the   folder named as "Dasboard".
+# The provided Google Drive link contains two folders: one with 10 video footages and another with two ML models (a Joblib model for crowd density prediction and a YOLOv8 model for real-time people counting).
+  Video link, ML models: - https://drive.google.com/drive/folders/1HexlVxr469xTbZbSHOHnqUzpa4iIzuI7?usp=sharing 
