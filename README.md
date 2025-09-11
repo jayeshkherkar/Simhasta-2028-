@@ -25,5 +25,5 @@ The following features this application are:
       4) Run the flask application:
          Run this command in vs code powershell terminal: python app.py
 # Important instruction is that please ensure that all the libraries mentioned in the "requirements.txt" should be installed efficiently in virtual environment and create the virtual environment folder inside the   folder named as "Dasboard".
-# The provided Google Drive link contains two folders: one with 10 video footages and another with two ML models (a Joblib model for crowd density prediction and a YOLOv8 model for real-time people counting).
+# The provided Google Drive link contains two folders: one with 10 video footages and another with two ML models (a Joblib model for crowd density prediction and a YOLOv8 model for real-time people counting) put    these two folder inside the folder named as "Dasboard" after that run the flask application.
   Video link, ML models: - https://drive.google.com/drive/folders/1HexlVxr469xTbZbSHOHnqUzpa4iIzuI7?usp=sharing 
